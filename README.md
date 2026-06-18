@@ -111,5 +111,8 @@ The skill is intentionally conservative about sources.
 
 It should not invent authors, years, paper titles, journals, page ranges, conclusions, methods, or findings. If the source cannot be verified or has not been read, claims should be excluded, qualified, or flagged instead of presented as fact.
 
-Public sharing of this repository does not by itself grant an open-source license. Add a license file if you want others to reuse, modify, or redistribute the skill under specific terms.
+## License
 
+This repository is licensed under the MIT License.
+
+The license applies only to the contents of this repository, including the `review-writing` skill and its accompanying documentation. It does not apply to other skills, private drafts, thesis materials, or repositories outside this project.
