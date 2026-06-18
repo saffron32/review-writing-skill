@@ -1,0 +1,7 @@
+interface:
+  display_name: "ReviewWriting"
+  short_description: "Rigorous finance literature reviews and research-status sections."
+  default_prompt: "Use $review-writing to draft or revise a finance thesis literature review, domestic/foreign research-status section, or review-comment module with verified sources, clear logic, and the required citation style."
+
+policy:
+  allow_implicit_invocation: true
